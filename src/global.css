@@ -1,0 +1,23 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a.active {
+  background-color: #2e7d32 !important;
+}
+.padded {
+  padding: 10px 20px;
+}
+.rounded {
+  border-radius: 10px;
+}
+.swiper {
+  height: 100%;
+}
+.swiper-slide {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
